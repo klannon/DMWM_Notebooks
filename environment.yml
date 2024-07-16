@@ -1,4 +1,4 @@
-name: wm-agile
+name: dmwm-notebooks
 channels:
   - conda-forge
 dependencies:
