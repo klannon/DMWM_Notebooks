@@ -1,0 +1,10 @@
+name: wm-agile
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pandas
+  - matplotlib
+  - numpy
+  - jupyterlab
+prefix: /Users/klannon/mambaforge/envs/wm-agile
